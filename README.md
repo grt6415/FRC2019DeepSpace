@@ -20,4 +20,3 @@
 :small_blue_diamond: **2 Climb - 1 Ball - 2 Panel Solenoid**
 :small_blue_diamond: **2 Joystick**
 :small_blue_diamond: **Limelight 2**
-
